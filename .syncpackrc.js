@@ -30,7 +30,6 @@ module.exports = {
     'main',
     'module',
     'types',
-    'contracts',
     'scripts',
   ],
   versionGroups: [],
